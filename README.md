@@ -34,3 +34,7 @@ Example: Reusing character glyphs in a text editor.
 Control access to another object (lazy loading, caching, security).
 Example: Virtual proxy for loading large images.
 
+- Adapter solves compatibility
+- Bridge solves abstraction separation
+- Decorator solves behavior extension
+- Facade solves complexity reduction

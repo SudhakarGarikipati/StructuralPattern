@@ -11,6 +11,7 @@
     <ProjectReference Include="..\AdapterDesignPattern\AdapterDesignPattern.csproj" />
     <ProjectReference Include="..\BridgePattern\BridgePattern.csproj" />
     <ProjectReference Include="..\DecoratorPattern\DecoratorPattern.csproj" />
+    <ProjectReference Include="..\FacadePattern\FacadePattern.csproj" />
   </ItemGroup>
 
 </Project>
