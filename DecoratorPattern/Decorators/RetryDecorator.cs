@@ -36,7 +36,6 @@ namespace DecoratorPattern.Decorators
                     }
                 }
             }
-            return null; // This line will never be reached, but is required to satisfy the method signature
         }
     }
 }
